@@ -1,0 +1,37 @@
+{
+  "date": "08/04/2018",
+  "type": "  By  Batch  #",
+  "orders": [
+    {
+      "date": "08/04/2018",
+      "code": "ONF002793300",
+      "buyer": {
+        "name": "Brett  Nagy",
+        "street": "5825  221st  Place  S.E.",
+        "zip": "98027 "
+      },
+      "timings": {
+        "start": "3",
+        "stop": "3",
+        "gap": "0",
+        "offset": "2",
+        "pause": "0 "
+      },
+      "items": [
+        {
+          "sku": "602527788265",
+          "qty": "02"
+        },
+        {
+          "sku": "602517642850",
+          "qty": "01 "
+        }
+      ]
+    }
+  ],
+  "ender": {
+    "process": "1",
+    "paid": "2",
+    "created": "9"
+  }
+}

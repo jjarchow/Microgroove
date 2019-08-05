@@ -1,0 +1,11 @@
+c:\Users\E840249.GLOBAL\Documents\2019\Job hunt\Micogroove\obj\Debug\netcoreapp2.1\Micogroove.csprojAssemblyReference.cache
+c:\Users\E840249.GLOBAL\Documents\2019\Job hunt\Micogroove\obj\Debug\netcoreapp2.1\Micogroove.csproj.CoreCompileInputs.cache
+c:\Users\E840249.GLOBAL\Documents\2019\Job hunt\Micogroove\obj\Debug\netcoreapp2.1\Micogroove.AssemblyInfoInputs.cache
+c:\Users\E840249.GLOBAL\Documents\2019\Job hunt\Micogroove\obj\Debug\netcoreapp2.1\Micogroove.AssemblyInfo.cs
+C:\Users\E840249.GLOBAL\Documents\2019\Job hunt\Micogroove\bin\Debug\netcoreapp2.1\Micogroove.deps.json
+C:\Users\E840249.GLOBAL\Documents\2019\Job hunt\Micogroove\bin\Debug\netcoreapp2.1\Micogroove.runtimeconfig.json
+C:\Users\E840249.GLOBAL\Documents\2019\Job hunt\Micogroove\bin\Debug\netcoreapp2.1\Micogroove.runtimeconfig.dev.json
+c:\Users\E840249.GLOBAL\Documents\2019\Job hunt\Micogroove\bin\Debug\netcoreapp2.1\Micogroove.dll
+c:\Users\E840249.GLOBAL\Documents\2019\Job hunt\Micogroove\bin\Debug\netcoreapp2.1\Micogroove.pdb
+c:\Users\E840249.GLOBAL\Documents\2019\Job hunt\Micogroove\obj\Debug\netcoreapp2.1\Micogroove.dll
+c:\Users\E840249.GLOBAL\Documents\2019\Job hunt\Micogroove\obj\Debug\netcoreapp2.1\Micogroove.pdb
